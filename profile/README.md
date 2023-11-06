@@ -1,6 +1,8 @@
 ## TECX - GamesGames
-# Repositório destinado a atividades desenvolvidos durante a disciplica de Jogos Digitais
+# Repositório destinado a atividades desenvolvidas durante a disciplica de Jogos Digitais
 Equipe:
 * João Vitor Laimer
 * Henrique Colares Versiani
-* Vinícius Hallmann 
+* Vinícius Hallmann
+
+**obs. nome de equipe provisório
